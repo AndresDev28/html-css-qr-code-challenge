@@ -15,8 +15,8 @@
     display: flex; /* aplica estilo de flexbox */
     justify-content: center; /* alinea horizontalmente */
     align-items: center; /* alinea verticalmente */
-    width: 1440px;
-    height: 800px;
+    width: 80%; /* 80% del ancho del contenedor padre */
+    height: 80%; /* 80% del alto del contenedor padre */
     box-shadow: 1px 10px 15px rgba(0, 0, 0, 0.3);
 }
 
@@ -71,3 +71,4 @@
         height: 667px;
     }
 }
+
