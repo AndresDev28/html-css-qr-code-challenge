@@ -16,7 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 ![ScrenCapture](../html-css-qr-code-challenge/images/screencapture.png)
-git status
 ## My process
 
 Started by creating the corresponding folders and files to have a good structure, even for a very simple project. Then wrote the HTML structure from the main container, container-1, and so on. Later, activated the Sass tool from the terminal to define styles from _globals.scss, and they were being saved in styles.css.
